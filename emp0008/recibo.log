@@ -23204,3 +23204,10 @@ RECCAR 03706 VALDAIR RIBEIRO DOS SANTOS               107337-03 28/07/20 10:36:4
 RECCAR 03706 VALDAIR RIBEIRO DOS SANTOS               007337-04 28/08/20 10:36:43 29/08/20 ADMIN      0004              95,09 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
 RECCAR 03822 SIRENILDA DAS CHAGAS                     107311-06 25/07/20 10:37:14 29/08/20 ADMIN      0004              16,17 PAG PARCIAL REST FATURA 007311-06  
 RECCAR 03822 SIRENILDA DAS CHAGAS                     007311-07 25/08/20 10:37:14 29/08/20 ADMIN      0004              83,83 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+==========================================================================================================================================================================================
+TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECCAR 12848 MAGNO FERREIRA DA CONCEICAO              0007402-A 30/08/20 12:00:35 30/08/20 ADMIN      0004               5,00 PAG PARCIAL TX COBRANCA PRESENCIAL  
+RECCAR 12848 MAGNO FERREIRA DA CONCEICAO              107239-11 01/05/20 12:00:35 30/08/20 ADMIN      0004              18,41 PAG PARCIAL REST FATURA 007239-11  
+RECCAR 12848 MAGNO FERREIRA DA CONCEICAO              007239-12 31/05/20 12:00:35 30/08/20 ADMIN      0004             108,26 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+RECCAR 12848 MAGNO FERREIRA DA CONCEICAO              007239-13 30/06/20 12:00:35 30/08/20 ADMIN      0004              68,33 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
