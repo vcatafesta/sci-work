@@ -23222,3 +23222,10 @@ RECCAR 12825 LUCINDA ALVES MESSIAS PEREIRA            007336-04 27/07/20 16:58:4
 RECCAR 12751 JOEL LIMA DO NASCIMENTO                  107302-07 28/05/20 17:02:39 31/08/20 ADMIN      0004              73,69 PAG PARCIAL REST FATURA 007302-07  
 RECCAR 12751 JOEL LIMA DO NASCIMENTO                  007302-08 28/06/20 17:02:39 31/08/20 ADMIN      0004              74,38 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
 RECCAR 12751 JOEL LIMA DO NASCIMENTO                  007302-09 28/07/20 17:02:39 31/08/20 ADMIN      0004              51,93 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+==========================================================================================================================================================================================
+TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECCAR 12827 LUCIMAR DA SILVA                         401131-22 03/05/20 17:04:16 02/09/20 ADMIN      0004              13,32 PAG PARCIAL REST FATURA 301131-22  
+RECCAR 12827 LUCIMAR DA SILVA                         301131-23 03/06/20 17:04:16 02/09/20 ADMIN      0004             108,29 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+RECCAR 12827 LUCIMAR DA SILVA                         301131-24 03/07/20 17:04:16 02/09/20 ADMIN      0004             106,19 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+RECCAR 12827 LUCIMAR DA SILVA                         007386-01 03/08/20 17:04:16 02/09/20 ADMIN      0004               4,20 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
