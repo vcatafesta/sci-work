@@ -2,6 +2,7 @@
 *.cdx
 *.fat
 *.txt
+*.old
 sci.err
 LPT*
 COM*
