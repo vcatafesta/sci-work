@@ -1,4 +1,5 @@
 *.nsx
+*.cdx
 sci.err
 LPT*
 COM*
