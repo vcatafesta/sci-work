@@ -1,5 +1,7 @@
 *.nsx
 *.cdx
+*.fat
+*.txt
 sci.err
 LPT*
 COM*
