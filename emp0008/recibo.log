@@ -23306,3 +23306,10 @@ TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 RECBCO 03759 ZILDA DA SILVA LIMA                      167272-20 21/03/20 11:17:53 21/09/20 ADMIN      0004              52,49 PAG PARCIAL REST FATURA 067272-20 EFETUADO DEP BANCO CREDIP 1077-4 EM DATA DE 21/09/20. 
 RECBCO 03759 ZILDA DA SILVA LIMA                      067272-21 21/04/20 11:17:54 21/09/20 ADMIN      0004              67,51 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET. EFETUADO DEP BANCO CREDIP 1077-4 EM DATA DE 21/09/20. 
+RECBCO 12840 MARLY DA SILVA MIRA LIMA                 107205-13 15/01/20 14:26:46 13/09/20 ADMIN      0004              65,43 PAG PARCIAL REST FATURA 007205-13 EFETUADO DEP BANCO CREDIP 1077-4 EM DATA DE 13/09/20. 
+RECBCO 12840 MARLY DA SILVA MIRA LIMA                 007205-14 15/02/20 14:26:46 13/09/20 ADMIN      0004              59,57 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET. EFETUADO DEP BANCO CREDIP 1077-4 EM DATA DE 13/09/20. 
+RECBCO 03312 ESTEFANIO JOSE DOS SANTOS                000712-03 11/09/20 14:28:19 11/09/20 ADMIN      0004             100,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET. EFETUADO DEP BANCO CREDIP 1077-4 EM DATA DE 11/09/20. 
+==========================================================================================================================================================================================
+TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECBCO 12800 I9 TECNOLOGIA E SERVICOS EIRELI - EPP    000216-18 17/09/20 14:29:07 16/09/20 ADMIN      0004              70,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET. EFETUADO DEP BANCO CREDIP 1077-4 EM DATA DE 16/09/20. 
