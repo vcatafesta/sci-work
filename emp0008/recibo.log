@@ -23313,3 +23313,7 @@ RECBCO 03312 ESTEFANIO JOSE DOS SANTOS                000712-03 11/09/20 14:28:1
 TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 RECBCO 12800 I9 TECNOLOGIA E SERVICOS EIRELI - EPP    000216-18 17/09/20 14:29:07 16/09/20 ADMIN      0004              70,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET. EFETUADO DEP BANCO CREDIP 1077-4 EM DATA DE 16/09/20. 
+==========================================================================================================================================================================================
+TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECCAR 12803 MICHAEL VINICIUS ROSA CLAUDIO            000179-18 20/09/20 13:17:26 23/09/20 ADMIN      0004             100,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
