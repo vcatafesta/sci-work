@@ -23469,3 +23469,9 @@ TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 RECCAR 03797 GIVANILDO FRANCISCO DA SILVA             107295-12 09/10/20 21:55:45 31/10/20 ADMIN      0004              66,62 PAG PARCIAL REST FATURA 007295-12  
 RECCAR 03797 GIVANILDO FRANCISCO DA SILVA             007295-13 09/11/20 21:55:45 31/10/20 ADMIN      0004              33,38 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+==========================================================================================================================================================================================
+TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECCAR 03832 JANERSON RODRIGUES DA ROCHA              100598-03 26/09/20 18:23:15 03/11/20 ADMIN      0004               3,58 PAG PARCIAL REST FATURA 000598-03  
+RECCAR 03832 JANERSON RODRIGUES DA ROCHA              000598-04 26/10/20 18:23:15 03/11/20 ADMIN      0004             103,29 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+RECCAR 03832 JANERSON RODRIGUES DA ROCHA              000598-05 26/11/20 18:23:15 03/11/20 ADMIN      0004               3,13 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
