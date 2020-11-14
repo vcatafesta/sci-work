@@ -23538,3 +23538,8 @@ RECCAR 12785 SERGIO LUIZ BELLINA                      007387-04 29/11/20 13:56:1
 RECCAR 03752 RONALD SILVA DE AQUINO                   100535-04 09/10/20 16:24:28 13/11/20 ADMIN      0004              48,38 PAG PARCIAL REST FATURA 000535-04  
 RECCAR 03752 RONALD SILVA DE AQUINO                   000535-05 09/11/20 16:24:28 13/11/20 ADMIN      0004              21,62 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
 RECCAR 03752 RONALD SILVA DE AQUINO                   000535-06 09/12/20 16:24:35 13/11/20 ADMIN      0004              70,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+==========================================================================================================================================================================================
+TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECCAR 03827 JOSE PEREIRA CARDOSO                     100502-04 05/10/20 11:20:22 14/11/20 ADMIN      0004               3,47 PAG PARCIAL REST FATURA 000502-04  
+RECCAR 03827 JOSE PEREIRA CARDOSO                     000502-05 05/11/20 11:20:22 14/11/20 ADMIN      0004              66,53 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
