@@ -23595,3 +23595,21 @@ RECCAR 03718 MARILZA PEREIRA DA CRUZ                  100732-04 05/10/20 18:10:4
 RECCAR 03718 MARILZA PEREIRA DA CRUZ                  000732-05 05/11/20 18:10:48 24/11/20 ADMIN      0004              71,85 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
 RECCAR 03718 MARILZA PEREIRA DA CRUZ                  000732-06 05/12/20 18:10:48 24/11/20 ADMIN      0004              64,61 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
 RECCAR 03706 VALDAIR RIBEIRO DOS SANTOS               007337-06 28/10/20 18:56:22 27/11/20 ADMIN      0004             100,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+==========================================================================================================================================================================================
+TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECCAR 03829 ROBSON PASSOS NASCIMENTO                 000665-05 06/11/20 08:25:55 28/11/20 ADMIN      0004              71,92 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+RECCAR 03829 ROBSON PASSOS NASCIMENTO                 000665-06 06/12/20 08:25:55 28/11/20 ADMIN      0004              68,08 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+==========================================================================================================================================================================================
+TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECCAR 03828 DELAIDE ROBERTO PRESTES SCHNORREMBERGER  000622-05 06/11/20 10:21:41 30/11/20 ADMIN      0004              70,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+RECCAR 03828 DELAIDE ROBERTO PRESTES SCHNORREMBERGER  000622-06 06/12/20 10:21:49 30/11/20 ADMIN      0004              70,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+RECCAR 03828 DELAIDE ROBERTO PRESTES SCHNORREMBERGER  0007456-A 30/11/20 10:21:54 30/11/20 ADMIN      0004              50,00 PAG PARCIAL TX REINSTALACAO ANTENA/MUDANCA ENDERECO  
+RECCAR 03706 VALDAIR RIBEIRO DOS SANTOS               107337-06 28/10/20 12:16:53 27/11/20 ADMIN      0004               3,15 PAG PARCIAL REST FATURA 007337-06  
+RECCAR 03706 VALDAIR RIBEIRO DOS SANTOS               007337-07 28/11/20 12:16:53 27/11/20 ADMIN      0004              96,85 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+==========================================================================================================================================================================================
+TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECCAR 03790 UEDISON SANTOS SOARES                    000128-20 18/09/20 11:47:39 03/12/20 ADMIN      0004             100,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+RECCAR 03844 FABIANA RODRIGUES DA ROCHA               007437-01 04/12/20 17:08:44 05/12/20 ADMIN      0004             100,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
