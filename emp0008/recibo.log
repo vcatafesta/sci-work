@@ -23652,3 +23652,9 @@ RECCAR 03824 HELIELTON QUADROS MEDEIROS               107332-07 23/10/20 18:32:0
 RECCAR 03824 HELIELTON QUADROS MEDEIROS               207332-07 10/11/20 18:32:02 14/12/20 ADMIN      0004              59,05 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
 RECCAR 03824 HELIELTON QUADROS MEDEIROS               007332-08 10/12/20 18:32:02 14/12/20 ADMIN      0004             100,02 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
 RECCAR 03824 HELIELTON QUADROS MEDEIROS               007332-09 10/01/21 18:32:15 14/12/20 ADMIN      0004               1,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+RECCAR 03835 PAULO FAUSTINO DE OLIVEIRA               001308-05 10/12/20 14:42:32 15/12/20 ADMIN      0004              70,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+RECCAR 03752 RONALD SILVA DE AQUINO                   000535-06 09/12/20 15:01:08 15/12/20 ADMIN      0004              70,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+==========================================================================================================================================================================================
+TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECCAR 12827 LUCIMAR DA SILVA                         107386-03 03/10/20 18:28:38 16/12/20 ADMIN      0004             100,00 PAG PARCIAL REST FATURA 007386-03  
