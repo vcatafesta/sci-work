@@ -23658,3 +23658,20 @@ RECCAR 03752 RONALD SILVA DE AQUINO                   000535-06 09/12/20 15:01:0
 TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 RECCAR 12827 LUCIMAR DA SILVA                         107386-03 03/10/20 18:28:38 16/12/20 ADMIN      0004             100,00 PAG PARCIAL REST FATURA 007386-03  
+RECCAR 03836 SHIRLEI EMILIA DE SOUZA RIBEIRO          007391-05 10/12/20 17:54:18 17/12/20 ADMIN      0004              70,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+RECCAR 12751 JOEL LIMA DO NASCIMENTO                  107302-12 28/10/20 11:22:23 07/12/20 ADMIN      0004               2,58 PAG PARCIAL REST FATURA 007302-12  
+RECCAR 12751 JOEL LIMA DO NASCIMENTO                  007411-01 28/11/20 11:22:24 07/12/20 ADMIN      0004              67,42 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+RECBCO 12800 I9 TECNOLOGIA E SERVICOS EIRELI - EPP    000216-21 17/12/20 14:41:10 15/12/20 ADMIN      0004              70,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET. EFETUADO DEP BANCO CREDIP 1077-4 EM DATA DE 15/12/20. 
+==========================================================================================================================================================================================
+TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECCAR 03768 CAMILA LIMA MACHADO                      007405-03 20/12/20 18:40:15 18/12/20 ADMIN      0004             100,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+RECCAR 12806 SALLES DA SILVA SANTANA                  0007470-A 18/12/20 18:42:46 18/12/20 ADMIN      0004             100,00 PAG PARCIAL FONTE POE 24V TPLINK  
+==========================================================================================================================================================================================
+TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECCAR 03824 HELIELTON QUADROS MEDEIROS               0007473-A 19/12/20 18:05:24 19/12/20 ADMIN      0004              50,00 PAG PARCIAL TX DESINSTALACAO ANTENA  
+==========================================================================================================================================================================================
+TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECCAR 03151 JOSUE PEREIRA DOS SANTOS (NOGUEIRA)      007447-01 21/12/20 13:00:35 21/12/20 ADMIN      0004              70,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
