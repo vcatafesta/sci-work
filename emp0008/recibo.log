@@ -23676,3 +23676,7 @@ TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 RECCAR 03151 JOSUE PEREIRA DOS SANTOS (NOGUEIRA)      007447-01 21/12/20 13:00:35 21/12/20 ADMIN      0004              70,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
 RECBCO 03841 FLAVIA OLIVEIRA DE SOUZA                 007428-02 20/12/20 10:56:39 21/12/20 ADMIN      0004              70,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET. EFETUADO DEP BANCO CREDIP 1077-4 EM DATA DE 21/12/20. 
+==========================================================================================================================================================================================
+TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECCAR 12803 MICHAEL VINICIUS ROSA CLAUDIO            000179-21 20/12/20 01:02:50 22/12/20 ADMIN      0004             100,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
