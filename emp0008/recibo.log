@@ -23701,3 +23701,7 @@ RECBCO 03636 BENEDITO DE MATOS SOUZA JUNIOR           107304-09 16/09/20 19:58:1
 RECBCO 03636 BENEDITO DE MATOS SOUZA JUNIOR           007304-10 16/10/20 19:58:13 28/12/20 ADMIN      0004              74,60 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET. EFETUADO DEP BANCO CREDIP 1077-4 EM DATA DE 28/12/20. 
 RECBCO 03636 BENEDITO DE MATOS SOUZA JUNIOR           007304-11 16/11/20 19:58:13 28/12/20 ADMIN      0004              73,12 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET. EFETUADO DEP BANCO CREDIP 1077-4 EM DATA DE 28/12/20. 
 RECBCO 03636 BENEDITO DE MATOS SOUZA JUNIOR           007304-12 16/12/20 19:58:13 28/12/20 ADMIN      0004              71,64 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET. EFETUADO DEP BANCO CREDIP 1077-4 EM DATA DE 28/12/20. 
+==========================================================================================================================================================================================
+TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECCAR 03843 MARLENE FERNANDES                        0007481-A 29/12/20 15:27:49 29/12/20 ADMIN      0004              50,00 PAG PARCIAL TX VIABILIDADE TECNICA/INSTALACAO  
