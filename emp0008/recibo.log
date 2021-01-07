@@ -23705,3 +23705,25 @@ RECBCO 03636 BENEDITO DE MATOS SOUZA JUNIOR           007304-12 16/12/20 19:58:1
 TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 RECCAR 03843 MARLENE FERNANDES                        0007481-A 29/12/20 15:27:49 29/12/20 ADMIN      0004              50,00 PAG PARCIAL TX VIABILIDADE TECNICA/INSTALACAO  
+==========================================================================================================================================================================================
+TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECCAR 03794 ELIANE RODRIGUES DE PAIVA OLIVEIRA       107262-15 05/11/20 11:43:10 05/01/21 ADMIN      0004              16,90 PAG PARCIAL REST FATURA 007262-15  
+RECCAR 03794 ELIANE RODRIGUES DE PAIVA OLIVEIRA       007262-16 05/12/20 11:43:10 05/01/21 ADMIN      0004              87,85 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+RECCAR 03794 ELIANE RODRIGUES DE PAIVA OLIVEIRA       007262-17 05/01/21 11:43:10 05/01/21 ADMIN      0004              85,25 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+RECCAR 03540 HELLEN DOS SANTOS TINE                   000468-03 18/08/20 11:43:33 05/01/21 ADMIN      0004              60,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+RECCAR 03540 HELLEN DOS SANTOS TINE                   000468-04 18/09/20 11:43:40 05/01/21 ADMIN      0004              60,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+RECBCO 03501 SIDILENE CARDOSO DOS SANTOS              007328-10 18/08/20 12:21:07 05/01/21 ADMIN      0004              60,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET. EFETUADO DEP BANCO CREDIP 1077-4 EM DATA DE 05/01/21. 
+RECBCO 03501 SIDILENE CARDOSO DOS SANTOS              007328-11 18/09/20 12:21:22 05/01/21 ADMIN      0004              60,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET. EFETUADO DEP BANCO CREDIP 1077-4 EM DATA DE 05/01/21. 
+==========================================================================================================================================================================================
+TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECCAR 03706 VALDAIR RIBEIRO DOS SANTOS               107337-07 28/11/20 12:22:13 31/12/20 ADMIN      0004               3,29 PAG PARCIAL REST FATURA 007337-07  
+RECCAR 03706 VALDAIR RIBEIRO DOS SANTOS               007337-08 28/12/20 12:22:13 31/12/20 ADMIN      0004              96,71 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+==========================================================================================================================================================================================
+TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECCAR 12785 SERGIO LUIZ BELLINA                      007387-05 29/12/20 19:23:58 06/01/21 ADMIN      0004              70,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+RECCAR 03776 SEBASTIAO APRIGIO                        007441-02 28/12/20 19:24:12 06/01/21 ADMIN      0004              70,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+RECCAR 03842 CLARA NEUZA CHAGAS WILL                  007432-03 24/12/20 19:24:37 06/01/21 ADMIN      0004              50,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+RECCAR 03844 FABIANA RODRIGUES DA ROCHA               007437-02 04/01/21 19:25:09 06/01/21 ADMIN      0004             100,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
