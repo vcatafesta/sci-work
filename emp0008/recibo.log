@@ -23779,3 +23779,12 @@ RECBCO 12806 SALLES DA SILVA SANTANA                  0007471-A 18/12/20 23:10:4
 TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 RECBCO 12800 I9 TECNOLOGIA E SERVICOS EIRELI - EPP    000216-22 17/01/21 23:11:28 18/01/21 ADMIN      0004              70,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET. EFETUADO DEP BANCO CREDIP 1077-4 EM DATA DE 18/01/21. 
+==========================================================================================================================================================================================
+TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECCAR 12751 JOEL LIMA DO NASCIMENTO                  107411-01 28/11/20 23:35:37 09/01/21 ADMIN      0004               5,42 PAG PARCIAL REST FATURA 007411-01  
+RECCAR 12751 JOEL LIMA DO NASCIMENTO                  007411-02 28/12/20 23:35:37 09/01/21 ADMIN      0004              64,58 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+==========================================================================================================================================================================================
+TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECCAR 03835 PAULO FAUSTINO DE OLIVEIRA               001308-06 10/01/21 23:36:09 14/01/21 ADMIN      0004              70,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
