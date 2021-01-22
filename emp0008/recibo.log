@@ -23793,3 +23793,8 @@ TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 RECCAR 03843 MARLENE FERNANDES                        007484-01 29/01/21 18:40:43 19/01/21 ADMIN      0004              70,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
 RECCAR 03836 SHIRLEI EMILIA DE SOUZA RIBEIRO          007391-06 10/01/21 18:41:02 19/01/21 ADMIN      0004              70,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+==========================================================================================================================================================================================
+TIPO   CODI  NOME CLIENTE                             DOCTO Nº VENCTO   HORA     DATA_OS  USUARIO    CAIX       VALOR RECIBO HISTORICO
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RECCAR 12803 MICHAEL VINICIUS ROSA CLAUDIO            000179-22 20/01/21 15:18:28 20/01/21 ADMIN      0004             100,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET.  
+RECBCO 03277 SILVANIA JANAIDE DA CRUZ ARAUJO          007464-01 14/01/21 23:58:35 19/01/21 ADMIN      0004              70,00 PAG PARCIAL PARCELA CONTRATO SERVICOS DE INTERNET. EFETUADO DEP BANCO CREDIP 1077-4 EM DATA DE 19/01/21. 
